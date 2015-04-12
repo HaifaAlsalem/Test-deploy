@@ -7,4 +7,4 @@ deploy:
   api_key: 0b55c582-4e14-41e2-9d2b-cb632027ec42
   on:
      repo: HaifaAlsalem/Test-deploy
-     node_js: 0.10
+    
