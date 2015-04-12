@@ -5,4 +5,5 @@ node_js:
 deploy:
   provider: heroku
   api_key: 0b55c582-4e14-41e2-9d2b-cb632027ec42
-  app: hello.js
+   on:
+    all_branches: true
